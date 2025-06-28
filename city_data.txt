@@ -1,0 +1,501 @@
+# Important US Cities with State Abbreviations and City IDs for Redfin
+
+## Major Metropolitan Areas
+
+### California (CA)
+- Los Angeles: 11203/CA/Los-Angeles
+- San Francisco: 17151/CA/San-Francisco
+- San Diego: 16904/CA/San-Diego
+- San Jose: 17000/CA/San-Jose
+- Sacramento: 16839/CA/Sacramento
+- Oakland: 13654/CA/Oakland
+- Long Beach: 11436/CA/Long-Beach
+- Fresno: 9717/CA/Fresno
+- Anaheim: 1480/CA/Anaheim
+- Santa Ana: 17248/CA/Santa-Ana
+
+### Texas (TX)
+- Houston: 30794/TX/Houston
+- Dallas: 30818/TX/Dallas
+- San Antonio: 30876/TX/San-Antonio
+- Austin: 30818/TX/Austin
+- Fort Worth: 30704/TX/Fort-Worth
+- El Paso: 30675/TX/El-Paso
+- Arlington: 30588/TX/Arlington
+- Corpus Christi: 30656/TX/Corpus-Christi
+- Plano: 30844/TX/Plano
+- Laredo: 30787/TX/Laredo
+
+### Florida (FL)
+- Jacksonville: 6266/FL/Jacksonville
+- Miami: 7245/FL/Miami
+- Tampa: 8025/FL/Tampa
+- Orlando: 7506/FL/Orlando
+- St. Petersburg: 7862/FL/St-Petersburg
+- Hialeah: 6133/FL/Hialeah
+- Tallahassee: 8018/FL/Tallahassee
+- Fort Lauderdale: 5914/FL/Fort-Lauderdale
+- Port St. Lucie: 7584/FL/Port-St-Lucie
+- Cape Coral: 5484/FL/Cape-Coral
+
+### New York (NY)
+- New York City: 30749/NY/New-York
+- Buffalo: 30545/NY/Buffalo
+- Rochester: 30862/NY/Rochester
+- Yonkers: 31013/NY/Yonkers
+- Syracuse: 30948/NY/Syracuse
+- Albany: 30457/NY/Albany
+- New Rochelle: 30744/NY/New-Rochelle
+- Mount Vernon: 30718/NY/Mount-Vernon
+- Schenectady: 30883/NY/Schenectady
+
+### Illinois (IL)
+- Chicago: 29470/IL/Chicago
+- Aurora: 29405/IL/Aurora
+- Rockford: 29698/IL/Rockford
+- Joliet: 29522/IL/Joliet
+- Naperville: 29598/IL/Naperville
+- Springfield: 29740/IL/Springfield
+- Peoria: 29650/IL/Peoria
+- Elgin: 29491/IL/Elgin
+- Waukegan: 29781/IL/Waukegan
+
+### Pennsylvania (PA)
+- Philadelphia: 21363/PA/Philadelphia
+- Pittsburgh: 21378/PA/Pittsburgh
+- Allentown: 20854/PA/Allentown
+- Erie: 21100/PA/Erie
+- Reading: 21413/PA/Reading
+- Scranton: 21493/PA/Scranton
+- Bethlehem: 20929/PA/Bethlehem
+- Lancaster: 21259/PA/Lancaster
+
+### Ohio (OH)
+- Columbus: 18411/OH/Columbus
+- Cleveland: 18364/OH/Cleveland
+- Cincinnati: 18339/OH/Cincinnati
+- Toledo: 18811/OH/Toledo
+- Akron: 18084/OH/Akron
+- Dayton: 18430/OH/Dayton
+- Parma: 18677/OH/Parma
+- Canton: 18300/OH/Canton
+
+### Georgia (GA)
+- Atlanta: 9345/GA/Atlanta
+- Augusta: 9365/GA/Augusta
+- Columbus: 9569/GA/Columbus
+- Savannah: 9989/GA/Savannah
+- Athens: 9340/GA/Athens
+- Sandy Springs: 9975/GA/Sandy-Springs
+- Roswell: 9949/GA/Roswell
+- Macon: 9753/GA/Macon
+
+### North Carolina (NC)
+- Charlotte: 13415/NC/Charlotte
+- Raleigh: 13743/NC/Raleigh
+- Greensboro: 13538/NC/Greensboro
+- Durham: 13468/NC/Durham
+- Winston-Salem: 13897/NC/Winston-Salem
+- Fayetteville: 13494/NC/Fayetteville
+- Cary: 13406/NC/Cary
+- Wilmington: 13887/NC/Wilmington
+
+### Michigan (MI)
+- Detroit: 11808/MI/Detroit
+- Grand Rapids: 11915/MI/Grand-Rapids
+- Warren: 12292/MI/Warren
+- Sterling Heights: 12175/MI/Sterling-Heights
+- Lansing: 12021/MI/Lansing
+- Ann Arbor: 11656/MI/Ann-Arbor
+- Flint: 11854/MI/Flint
+- Dearborn: 11783/MI/Dearborn
+
+### New Jersey (NJ)
+- Newark: 16132/NJ/Newark
+- Jersey City: 15964/NJ/Jersey-City
+- Paterson: 16178/NJ/Paterson
+- Elizabeth: 15879/NJ/Elizabeth
+- Edison: 15866/NJ/Edison
+- Woodbridge: 16420/NJ/Woodbridge
+- Lakewood: 16010/NJ/Lakewood
+- Toms River: 16355/NJ/Toms-River
+
+### Tennessee (TN)
+- Nashville: 37211/TN/Nashville
+- Memphis: 37149/TN/Memphis
+- Knoxville: 37068/TN/Knoxville
+- Chattanooga: 36980/TN/Chattanooga
+- Clarksville: 36999/TN/Clarksville
+- Murfreesboro: 37177/TN/Murfreesboro
+- Franklin: 37033/TN/Franklin
+- Johnson City: 37059/TN/Johnson-City
+
+### Virginia (VA)
+- Virginia Beach: 40080/VA/Virginia-Beach
+- Norfolk: 39900/VA/Norfolk
+- Chesapeake: 39622/VA/Chesapeake
+- Richmond: 40005/VA/Richmond
+- Newport News: 39894/VA/Newport-News
+- Alexandria: 39480/VA/Alexandria
+- Hampton: 39740/VA/Hampton
+- Portsmouth: 39979/VA/Portsmouth
+
+### Washington (WA)
+- Seattle: 16163/WA/Seattle
+- Spokane: 16178/WA/Spokane
+- Tacoma: 16189/WA/Tacoma
+- Vancouver: 16201/WA/Vancouver
+- Bellevue: 16037/WA/Bellevue
+- Kent: 16116/WA/Kent
+- Everett: 16088/WA/Everett
+- Renton: 16158/WA/Renton
+
+### Arizona (AZ)
+- Phoenix: 1155/AZ/Phoenix
+- Tucson: 1227/AZ/Tucson
+- Mesa: 1087/AZ/Mesa
+- Chandler: 976/AZ/Chandler
+- Glendale: 1039/AZ/Glendale
+- Scottsdale: 1185/AZ/Scottsdale
+- Gilbert: 1036/AZ/Gilbert
+- Tempe: 1217/AZ/Tempe
+
+### Massachusetts (MA)
+- Boston: 11201/MA/Boston
+- Worcester: 11742/MA/Worcester
+- Springfield: 11659/MA/Springfield
+- Lowell: 11517/MA/Lowell
+- Cambridge: 11238/MA/Cambridge
+- New Bedford: 11582/MA/New-Bedford
+- Brockton: 11218/MA/Brockton
+- Quincy: 11633/MA/Quincy
+
+### Indiana (IN)
+- Indianapolis: 10597/IN/Indianapolis
+- Fort Wayne: 10509/IN/Fort-Wayne
+- Evansville: 10481/IN/Evansville
+- South Bend: 10732/IN/South-Bend
+- Carmel: 10415/IN/Carmel
+- Fishers: 10499/IN/Fishers
+- Bloomington: 10378/IN/Bloomington
+- Hammond: 10558/IN/Hammond
+
+### Missouri (MO)
+- Kansas City: 17820/MO/Kansas-City
+- St. Louis: 17962/MO/St-Louis
+- Springfield: 17946/MO/Springfield
+- Independence: 17799/MO/Independence
+- Columbia: 17684/MO/Columbia
+- Lee's Summit: 17859/MO/Lees-Summit
+- O'Fallon: 17901/MO/OFallon
+- St. Joseph: 17955/MO/St-Joseph
+
+### Wisconsin (WI)
+- Milwaukee: 42741/WI/Milwaukee
+- Madison: 42695/WI/Madison
+- Green Bay: 42636/WI/Green-Bay
+- Kenosha: 42682/WI/Kenosha
+- Racine: 42795/WI/Racine
+- Appleton: 42571/WI/Appleton
+- Waukesha: 42863/WI/Waukesha
+- Eau Claire: 42616/WI/Eau-Claire
+
+### Maryland (MD)
+- Baltimore: 10451/MD/Baltimore
+- Frederick: 10527/MD/Frederick
+- Rockville: 10693/MD/Rockville
+- Gaithersburg: 10530/MD/Gaithersburg
+- Bowie: 10397/MD/Bowie
+- Hagerstown: 10556/MD/Hagerstown
+- Annapolis: 10358/MD/Annapolis
+- Salisbury: 10702/MD/Salisbury
+
+### Minnesota (MN)
+- Minneapolis: 12764/MN/Minneapolis
+- St. Paul: 12923/MN/St-Paul
+- Rochester: 12879/MN/Rochester
+- Duluth: 12640/MN/Duluth
+- Bloomington: 12564/MN/Bloomington
+- Brooklyn Park: 12582/MN/Brooklyn-Park
+- Plymouth: 12852/MN/Plymouth
+- St. Cloud: 12918/MN/St-Cloud
+
+### Colorado (CO)
+- Denver: 5155/CO/Denver
+- Colorado Springs: 5106/CO/Colorado-Springs
+- Aurora: 5002/CO/Aurora
+- Fort Collins: 5179/CO/Fort-Collins
+- Lakewood: 5233/CO/Lakewood
+- Thornton: 5365/CO/Thornton
+- Arvada: 4997/CO/Arvada
+- Westminster: 5387/CO/Westminster
+
+### Alabama (AL)
+- Birmingham: 758/AL/Birmingham
+- Montgomery: 909/AL/Montgomery
+- Mobile: 900/AL/Mobile
+- Huntsville: 843/AL/Huntsville
+- Tuscaloosa: 1018/AL/Tuscaloosa
+- Hoover: 832/AL/Hoover
+- Dothan: 793/AL/Dothan
+- Auburn: 743/AL/Auburn
+
+### South Carolina (SC)
+- Charleston: 35760/SC/Charleston
+- Columbia: 35794/SC/Columbia
+- North Charleston: 35942/SC/North-Charleston
+- Mount Pleasant: 35924/SC/Mount-Pleasant
+- Rock Hill: 35997/SC/Rock-Hill
+- Greenville: 35853/SC/Greenville
+- Summerville: 36058/SC/Summerville
+- Sumter: 36061/SC/Sumter
+
+### Louisiana (LA)
+- New Orleans: 17332/LA/New-Orleans
+- Baton Rouge: 17136/LA/Baton-Rouge
+- Shreveport: 17429/LA/Shreveport
+- Lafayette: 17283/LA/Lafayette
+- Lake Charles: 17291/LA/Lake-Charles
+- Kenner: 17276/LA/Kenner
+- Bossier City: 17159/LA/Bossier-City
+- Monroe: 17325/LA/Monroe
+
+### Kentucky (KY)
+- Louisville: 17055/KY/Louisville
+- Lexington: 17009/KY/Lexington
+- Bowling Green: 16898/KY/Bowling-Green
+- Owensboro: 17093/KY/Owensboro
+- Covington: 16943/KY/Covington
+- Hopkinsville: 16994/KY/Hopkinsville
+- Richmond: 17122/KY/Richmond
+- Florence: 16969/KY/Florence
+
+### Oregon (OR)
+- Portland: 30758/OR/Portland
+- Eugene: 30657/OR/Eugene
+- Salem: 30841/OR/Salem
+- Gresham: 30722/OR/Gresham
+- Hillsboro: 30734/OR/Hillsboro
+- Bend: 30515/OR/Bend
+- Beaverton: 30511/OR/Beaverton
+- Medford: 30780/OR/Medford
+
+### Oklahoma (OK)
+- Oklahoma City: 18967/OK/Oklahoma-City
+- Tulsa: 19050/OK/Tulsa
+- Norman: 18958/OK/Norman
+- Broken Arrow: 18847/OK/Broken-Arrow
+- Lawton: 18926/OK/Lawton
+- Edmond: 18890/OK/Edmond
+- Moore: 18950/OK/Moore
+- Midwest City: 18942/OK/Midwest-City
+
+### Connecticut (CT)
+- Bridgeport: 5046/CT/Bridgeport
+- New Haven: 5217/CT/New-Haven
+- Hartford: 5168/CT/Hartford
+- Stamford: 5334/CT/Stamford
+- Waterbury: 5378/CT/Waterbury
+- Norwalk: 5238/CT/Norwalk
+- Danbury: 5129/CT/Danbury
+- New Britain: 5213/CT/New-Britain
+
+### Iowa (IA)
+- Des Moines: 10756/IA/Des-Moines
+- Cedar Rapids: 10714/IA/Cedar-Rapids
+- Davenport: 10754/IA/Davenport
+- Sioux City: 10859/IA/Sioux-City
+- Waterloo: 10886/IA/Waterloo
+- Iowa City: 10787/IA/Iowa-City
+- Council Bluffs: 10746/IA/Council-Bluffs
+- Dubuque: 10761/IA/Dubuque
+
+### Arkansas (AR)
+- Little Rock: 2063/AR/Little-Rock
+- Fort Smith: 1987/AR/Fort-Smith
+- Fayetteville: 1977/AR/Fayetteville
+- Springdale: 2116/AR/Springdale
+- Jonesboro: 2037/AR/Jonesboro
+- North Little Rock: 2084/AR/North-Little-Rock
+- Conway: 1953/AR/Conway
+- Rogers: 2102/AR/Rogers
+
+### Mississippi (MS)
+- Jackson: 17661/MS/Jackson
+- Gulfport: 17624/MS/Gulfport
+- Southaven: 17737/MS/Southaven
+- Hattiesburg: 17632/MS/Hattiesburg
+- Biloxi: 17569/MS/Biloxi
+- Meridian: 17689/MS/Meridian
+- Tupelo: 17747/MS/Tupelo
+- Greenville: 17621/MS/Greenville
+
+### Kansas (KS)
+- Wichita: 11055/KS/Wichita
+- Overland Park: 11008/KS/Overland-Park
+- Kansas City: 10963/KS/Kansas-City
+- Topeka: 11043/KS/Topeka
+- Olathe: 11000/KS/Olathe
+- Lawrence: 10973/KS/Lawrence
+- Shawnee: 11025/KS/Shawnee
+- Manhattan: 10984/KS/Manhattan
+
+### Utah (UT)
+- Salt Lake City: 43616/UT/Salt-Lake-City
+- West Valley City: 43699/UT/West-Valley-City
+- Provo: 43594/UT/Provo
+- West Jordan: 43695/UT/West-Jordan
+- Orem: 43577/UT/Orem
+- Sandy: 43617/UT/Sandy
+- Ogden: 43570/UT/Ogden
+- St. George: 43641/UT/St-George
+
+### Nevada (NV)
+- Las Vegas: 5463/NV/Las-Vegas
+- Henderson: 5424/NV/Henderson
+- Reno: 5506/NV/Reno
+- North Las Vegas: 5486/NV/North-Las-Vegas
+- Sparks: 5520/NV/Sparks
+- Carson City: 5389/NV/Carson-City
+- Fernley: 5409/NV/Fernley
+
+### New Mexico (NM)
+- Albuquerque: 31958/NM/Albuquerque
+- Las Cruces: 32073/NM/Las-Cruces
+- Rio Rancho: 32115/NM/Rio-Rancho
+- Santa Fe: 32130/NM/Santa-Fe
+- Roswell: 32119/NM/Roswell
+- Farmington: 32034/NM/Farmington
+- Clovis: 32008/NM/Clovis
+
+### West Virginia (WV)
+- Charleston: 41584/WV/Charleston
+- Huntington: 41650/WV/Huntington
+- Parkersburg: 41705/WV/Parkersburg
+- Morgantown: 41686/WV/Morgantown
+- Wheeling: 41744/WV/Wheeling
+- Martinsburg: 41679/WV/Martinsburg
+- Fairmont: 41623/WV/Fairmont
+
+### Nebraska (NE)
+- Omaha: 12382/NE/Omaha
+- Lincoln: 12344/NE/Lincoln
+- Bellevue: 12305/NE/Bellevue
+- Grand Island: 12329/NE/Grand-Island
+- Kearney: 12337/NE/Kearney
+- Fremont: 12325/NE/Fremont
+- Hastings: 12333/NE/Hastings
+
+### Idaho (ID)
+- Boise: 9944/ID/Boise
+- Nampa: 10071/ID/Nampa
+- Pocatello: 10084/ID/Pocatello
+- Idaho Falls: 10016/ID/Idaho-Falls
+- Meridian: 10061/ID/Meridian
+- Coeur d'Alene: 9975/ID/Coeur-dAlene
+- Twin Falls: 10124/ID/Twin-Falls
+
+### Hawaii (HI)
+- Honolulu: 9442/HI/Honolulu
+- Pearl City: 9513/HI/Pearl-City
+- Hilo: 9441/HI/Hilo
+- Kailua: 9458/HI/Kailua
+- Waipahu: 9554/HI/Waipahu
+- Kaneohe: 9467/HI/Kaneohe
+- Mililani Town: 9495/HI/Mililani-Town
+
+### Maine (ME)
+- Portland: 11890/ME/Portland
+- Lewiston: 11858/ME/Lewiston
+- Bangor: 11813/ME/Bangor
+- South Portland: 11933/ME/South-Portland
+- Auburn: 11799/ME/Auburn
+- Biddeford: 11820/ME/Biddeford
+- Sanford: 11921/ME/Sanford
+
+### New Hampshire (NH)
+- Manchester: 15906/NH/Manchester
+- Nashua: 15924/NH/Nashua
+- Concord: 15839/NH/Concord
+- Dover: 15852/NH/Dover
+- Rochester: 15970/NH/Rochester
+- Salem: 15984/NH/Salem
+- Merrimack: 15917/NH/Merrimack
+
+### Rhode Island (RI)
+- Providence: 35287/RI/Providence
+- Warwick: 35326/RI/Warwick
+- Cranston: 35215/RI/Cranston
+- Pawtucket: 35271/RI/Pawtucket
+- East Providence: 35226/RI/East-Providence
+- Woonsocket: 35341/RI/Woonsocket
+- Newport: 35256/RI/Newport
+
+### Montana (MT)
+- Billings: 18163/MT/Billings
+- Missoula: 18214/MT/Missoula
+- Great Falls: 18190/MT/Great-Falls
+- Bozeman: 18170/MT/Bozeman
+- Butte: 18175/MT/Butte
+- Helena: 18193/MT/Helena
+- Kalispell: 18202/MT/Kalispell
+
+### North Dakota (ND)
+- Fargo: 19354/ND/Fargo
+- Bismarck: 19327/ND/Bismarck
+- Grand Forks: 19367/ND/Grand-Forks
+- Minot: 19394/ND/Minot
+- West Fargo: 19440/ND/West-Fargo
+- Williston: 19443/ND/Williston
+- Dickinson: 19344/ND/Dickinson
+
+### South Dakota (SD)
+- Sioux Falls: 43159/SD/Sioux-Falls
+- Rapid City: 43142/SD/Rapid-City
+- Aberdeen: 43069/SD/Aberdeen
+- Brookings: 43088/SD/Brookings
+- Watertown: 43188/SD/Watertown
+- Mitchell: 43128/SD/Mitchell
+- Pierre: 43138/SD/Pierre
+
+### Delaware (DE)
+- Wilmington: 5737/DE/Wilmington
+- Dover: 5665/DE/Dover
+- Newark: 5721/DE/Newark
+- Middletown: 5704/DE/Middletown
+- Smyrna: 5733/DE/Smyrna
+- Milford: 5708/DE/Milford
+- Seaford: 5730/DE/Seaford
+
+### Vermont (VT)
+- Burlington: 39652/VT/Burlington
+- Essex: 39694/VT/Essex
+- South Burlington: 39791/VT/South-Burlington
+- Colchester: 39668/VT/Colchester
+- Rutland: 39784/VT/Rutland
+- Montpelier: 39737/VT/Montpelier
+- Barre: 39609/VT/Barre
+
+### Wyoming (WY)
+- Cheyenne: 43793/WY/Cheyenne
+- Casper: 43789/WY/Casper
+- Laramie: 43807/WY/Laramie
+- Gillette: 43797/WY/Gillette
+- Rock Springs: 43815/WY/Rock-Springs
+- Sheridan: 43819/WY/Sheridan
+- Green River: 43801/WY/Green-River
+
+### Alaska (AK)
+- Anchorage: 687/AK/Anchorage
+- Fairbanks: 717/AK/Fairbanks
+- Juneau: 739/AK/Juneau
+- Sitka: 792/AK/Sitka
+- Ketchikan: 748/AK/Ketchikan
+- Wasilla: 806/AK/Wasilla
+- Kenai: 747/AK/Kenai
+
+
+To use in your script, you need:
+- **City Name**: The display name (e.g., "Los Angeles")
+- **City ID**: The numeric ID (e.g., 11203)
+- **State Abbreviation**: Two-letter code (e.g., "CA")
